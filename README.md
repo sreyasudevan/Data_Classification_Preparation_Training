@@ -22,23 +22,7 @@ It is divided into three major modules:
 
 ## Folder Structure
 
-Data_Classification_Preparation_Training/
-├── T1_Data_Cleaning/
-│ ├── data_cleaning.py
-│ └── README.md
-│
-├── T2_Data_Augmentation/
-│ ├── data_augmentation.py
-│ └── README.md
-│
-├── T3_Dataset_Split/
-│ ├── dataset_split.py
-│ └── README.md
-│
-├── TASK_REPORT.md
-├── requirements.txt
-└── README.md (Main project README)
-
+<img width="377" height="434" alt="image" src="https://github.com/user-attachments/assets/23fce493-5e22-4b48-95e4-59f1ccb2fc20" />
 
 ---
 
