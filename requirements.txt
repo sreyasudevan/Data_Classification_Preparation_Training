@@ -1,0 +1,19 @@
+# Core Python Libraries
+os-sys==2.1.4
+json5==0.9.25
+tqdm==4.66.4
+shutilwhich==1.1.0
+random2==1.0.1
+
+# Image Processing
+Pillow==10.2.0
+opencv-python==4.9.0.80
+
+# Google Colab (Drive integration)
+google-colab==1.0.0
+
+# Data Handling
+numpy==1.26.4
+
+# Optional (if you use Jupyter or Colab notebooks)
+ipython==8.24.0
