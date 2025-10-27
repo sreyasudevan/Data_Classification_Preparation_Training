@@ -29,7 +29,7 @@ Ensure the augmented dataset is located at:
 
 pip install opencv-python
 
-Steps to Run the App
+# Steps to Run the App
 
 Execute the script:
 
