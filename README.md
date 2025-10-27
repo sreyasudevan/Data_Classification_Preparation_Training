@@ -20,10 +20,31 @@ It is divided into three major modules:
 
 ---
 
+## Folder structure
+Data_Classification_Preparation_Training/
+│
+├── T1_Data_Cleaning/
+│   ├── data_cleaning.py
+│   └── README.md
+│
+├── T2_Data_Augmentation/
+│   ├── data_augmentation.py
+│   └── README.md
+│
+├── T3_Dataset_Split/
+│   ├── dataset_split.py
+│   └── README.md
+│
+└── README.md  ← (this file)
+
+---
+
 ## Prerequisites
 - Python 3.10 or higher
 - PIL (Pillow), tqdm, json, os libraries
 - Google Colab or local Python environment
+- Required libraries:
+os, cv2, numpy, PIL, shutil, json, random
 
 ---
 
