@@ -23,7 +23,6 @@ It is divided into three major modules:
 ## Folder Structure
 
 Data_Classification_Preparation_Training/
-│
 ├── T1_Data_Cleaning/
 │ ├── data_cleaning.py
 │ └── README.md
@@ -38,7 +37,8 @@ Data_Classification_Preparation_Training/
 │
 ├── TASK_REPORT.md
 ├── requirements.txt
-└── README.md ← (Main project README)
+└── README.md (Main project README)
+
 
 ---
 
