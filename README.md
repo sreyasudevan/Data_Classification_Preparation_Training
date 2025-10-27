@@ -20,22 +20,25 @@ It is divided into three major modules:
 
 ---
 
-## Folder structure
+## Folder Structure
+
 Data_Classification_Preparation_Training/
 │
 ├── T1_Data_Cleaning/
-│   ├── data_cleaning.py
-│   └── README.md
+│ ├── data_cleaning.py
+│ └── README.md
 │
 ├── T2_Data_Augmentation/
-│   ├── data_augmentation.py
-│   └── README.md
+│ ├── data_augmentation.py
+│ └── README.md
 │
 ├── T3_Dataset_Split/
-│   ├── dataset_split.py
-│   └── README.md
+│ ├── dataset_split.py
+│ └── README.md
 │
-└── README.md  ← (this file)
+├── TASK_REPORT.md
+├── requirements.txt
+└── README.md ← (Main project README)
 
 ---
 
